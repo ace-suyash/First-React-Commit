@@ -33,7 +33,7 @@ function App() {
 
   return (
       <div className='bg-black text-white min-h-screen p-4'>
-          <div className='flex flex-wrap justify-center items-start gap-4 p-4'>
+          <div className='flex flex-wrap h-[75vh] justify-center items-start gap-4 p-4'>
               {printUserData}
           </div>
 
